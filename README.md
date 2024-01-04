@@ -1,6 +1,6 @@
 # Chrome-Dinosaur-Game-
 
-**Overview**
+**Overview:**
 This project is an implementation of the classic Chrome Dino Game using SFML (Simple and Fast Multimedia Library) in C++. The game brings the nostalgic experience of the offline T-Rex jumping over obstacles to avoid collisions.
 
 # Description 
