@@ -26,3 +26,5 @@ Before running the game, ensure that you have the SFML library installed on your
 
 
 ![image](https://github.com/hassan-raza-cmd/Chrome-Dinosaur-Game-/assets/142444053/aba00c4f-44df-4fbf-8015-0dd4a7351715)
+![image](https://github.com/hassan-raza-cmd/Chrome-Dinosaur-Game-/assets/142444053/54028125-b1ba-4121-84ec-0e37f0821105)
+
