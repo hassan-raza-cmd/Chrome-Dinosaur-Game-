@@ -12,10 +12,10 @@ The logic set for this game is following:
 
 # Features
 User-Friendly Controls: Press the space bar or up key to make the T-Rex jump effortlessly.
-Dynamic Obstacles: Navigate through randomly generated cactus obstacles, providing a challenging gaming experience.
-Speed: After each 5 seconds speed increases to make game more challenging.
-Scoring System: Keep track of your score based on successful obstacle avoidance.
-Sounds: Game uses sounds that makes it more captivative.
+1. Dynamic Obstacles: Navigate through randomly generated cactus obstacles, providing a challenging gaming experience.
+2. Speed: After each 5 seconds speed increases to make game more challenging.
+3. Scoring System: Keep track of your score based on successful obstacle avoidance.
+4. Sounds: Game uses sounds that makes it more captivative.
 
 # Prerequisites
 Before running the game, ensure that you have the SFML library installed on your system. 
