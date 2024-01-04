@@ -23,3 +23,6 @@ Before running the game, ensure that you have the SFML library installed on your
 # Acknowledgments
 1. The SFML development team for providing a robust multimedia library.
 2. Inspiration drawn from the classic Chrome Dino Game developed by Google.
+
+
+![image](https://github.com/hassan-raza-cmd/Chrome-Dinosaur-Game-/assets/142444053/aba00c4f-44df-4fbf-8015-0dd4a7351715)
